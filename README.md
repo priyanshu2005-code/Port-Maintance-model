@@ -72,6 +72,3 @@ Use Deep Learning (LSTMs) for Sequential Data Analysis
 
 Feel free to contribute by opening issues, adding new features, or improving documentation! 🎉
 
-🏷 License
-
-This project is MIT licensed – free to use & modify!
